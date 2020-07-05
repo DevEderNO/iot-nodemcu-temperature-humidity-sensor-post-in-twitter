@@ -1,0 +1,2 @@
+# iot-nodemcu-temperature-humidity-sensor-post-in-twitter
+ Introductory project in the area of ​​Internet of Things (IoT) developed in the postgraduate classes at Delta College. Project consists of the integration of the NodeMCU board with the t components leds and temperature and humidity sensor, with the possibility of integration with the Thingspeak platform for availability of the data captured on the internet and also using Twitter to trigger programmed messages
